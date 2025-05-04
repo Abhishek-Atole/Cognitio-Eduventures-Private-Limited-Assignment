@@ -1,7 +1,5 @@
 # Critical Path Optimizer
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 A program to calculate and optimize the critical path in a processor network, allowing for high-speed processor replacements to minimize completion time.
 
 ## Table of Contents
@@ -83,6 +81,3 @@ Project/
 ├── README.md        # Project documentation
 └── a.out            # Compiled binary (if applicable)
 ```
-
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
